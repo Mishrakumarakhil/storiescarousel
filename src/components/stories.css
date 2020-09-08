@@ -1,0 +1,46 @@
+.story-container {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 120px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.story-image {
+    height: 330px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    background: #6c8ede;
+}
+
+
+.Left {
+    margin: 0px;
+    position: absolute;
+    top: 175px;
+    color: black;
+    font-size: 30px;
+    left:20px;
+        
+}
+
+.Right {
+   
+    color: color;
+    margin: 0px;
+    position: absolute;
+    top: 175px;
+    right: 20px;
+    font-size: 30px;
+}
+
+#file {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    
+}
